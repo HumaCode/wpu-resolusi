@@ -1,3 +1,6 @@
 Rencana Kedepan
 - Membuat Template web
+  *Home
+  *About
+  *Contact
 - Membuat Datanase Web
